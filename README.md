@@ -1,6 +1,8 @@
 # weather_app_nodejs
 This web application provides real-time weather information for every location. The [open weather API](https://openweathermap.org/api) was used to retrieve weather information so that a real-time weather forecast could be shown.
 
+[Click here](https://weather-app-nodejs-abhi.herokuapp.com/) to check out the web app
+
 
 ### Usage
 
